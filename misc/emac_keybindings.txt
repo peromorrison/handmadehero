@@ -1,0 +1,48 @@
+Tab  cycles through comletions for a word
+
+ALT-F Load file in the current window
+ALT-S Save the file in the current window
+
+ALT_SHIFT-F Load file in the other window
+
+ALT-B Switch to the buffer in the current window
+ALT-SHIFT-B Switch to buffer in the other window
+
+ALT-M  looks for and executes build.bat
+
+ALT-R revert buffer
+
+ALT-C Toggles between H file and CPP file
+
+ALT-K kills the buffer(asks to save it if it is modified)
+
+CTL arrows   move coursor by increments
+
+CTL-space sets the mark
+CTL-Tab  reindent block
+CTL-q copy block
+CTL-F paste block
+Ctl-W cut the block
+ALT-SHIFT-;  pop back to the previus mark
+
+ALT-u  undo
+
+ALT-J  jump to the name of function
+
+CTL-S start incremental search
+ CTL-s moves to next occurance
+ CTL-R  moves to previous occurance
+
+ALT-o  query replace
+ALT-L Replace inside block
+
+ALT-[  begin recording keyboard macro
+ALT-]  end recording keyboard macro
+ALT-'  replay keyboard macro
+
+ALT-.  reflow a comment
+
+ALT-N  GO to next error after compile
+ALT-SHIFT-N  previous error
+
+ALT-G go to line number
